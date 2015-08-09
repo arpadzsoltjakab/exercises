@@ -1,4 +1,4 @@
-package com.epam.academy.exercises;
+package com.epam.academy.exercises.app;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

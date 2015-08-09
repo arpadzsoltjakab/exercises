@@ -1,4 +1,4 @@
-package com.epam.academy.exercises;
+package com.epam.academy.exercises.app;
 
 /**
  * Hello world!
