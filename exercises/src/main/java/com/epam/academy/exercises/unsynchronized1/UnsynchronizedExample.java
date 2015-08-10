@@ -1,4 +1,4 @@
-package com.epam.academy.exercises.unsynchronized;
+package com.epam.academy.exercises.unsynchronized1;
 
 public class UnsynchronizedExample implements Runnable {
 
