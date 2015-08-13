@@ -1,4 +1,4 @@
-package com.epam.academy.exercises.executors1;
+package com.epam.academy.exercises.executors_execute;
 
 import java.io.IOException;
 import java.util.concurrent.ExecutorService;

@@ -1,4 +1,4 @@
-package com.epam.academy.exercises.executors1;
+package com.epam.academy.exercises.executors_execute;
 
 public class MyTask implements Runnable {
 
